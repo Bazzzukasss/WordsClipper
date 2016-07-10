@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/search.png</file>
+        <file>images/file.png</file>
+        <file>images/update.png</file>
+        <file>images/load.png</file>
+        <file>images/load_.png</file>
+        <file>images/update_.png</file>
+        <file>images/search_.png</file>
+        <file>images/clear.png</file>
+        <file>images/clear_.png</file>
+        <file>images/ico.png</file>
+        <file>images/close_.png</file>
+        <file>images/close.png</file>
+        <file>images/save.png</file>
+        <file>images/save_.png</file>
+        <file>images/minus.png</file>
+        <file>images/minus_.png</file>
+        <file>images/file_.png</file>
+        <file>images/active_.png</file>
+        <file>images/apply.png</file>
+        <file>images/apply_.png</file>
+        <file>images/font.png</file>
+        <file>images/active.png</file>
+        <file>images/mramor.png</file>
+    </qresource>
+</RCC>

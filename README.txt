@@ -1,0 +1,1 @@
+Software for phrases capturing and storing.
